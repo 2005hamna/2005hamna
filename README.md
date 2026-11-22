@@ -71,15 +71,17 @@ exploring ideas and turning them into something tangible.
 
 ---
 
+
 ## `05 // GITHUB_ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0B19&title_color=9B5CFF&icon_color=4169E1&text_color=C9C3E6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=2005hamna&show_icons=true&hide_border=true&bg_color=0D0B19&title_color=9B5CFF&icon_color=4169E1&text_color=C9C3E6"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0B19&title_color=9B5CFF&text_color=C9C3E6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005hamna&layout=compact&hide_border=true&bg_color=0D0B19&title_color=9B5CFF&text_color=C9C3E6"/>
 
 </div>
+
 
 ---
 
@@ -87,7 +89,7 @@ exploring ideas and turning them into something tangible.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/hamna-irfan-b180a3328/">
 <img src="https://img.shields.io/badge/LINKEDIN-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
