@@ -14,20 +14,16 @@
 </div>
 
 ---
+## `01  GITHUB_ACTIVITY`
 
-## `01  ABOUT_ME`
+<div align="center">
 
-```text
-> Degree       : BSc Computer Science
-> University   : Aston University
-> Classification: First Class Honours
-> Interests    : AI, software, security & technology
-> Mindset      : Always learning. Always experimenting.
-```
+<img src="https://github-readme-stats.vercel.app/api?username=2005hamna&show_icons=true&hide_border=true&bg_color=0D0B19&title_color=9B5CFF&icon_color=4169E1&text_color=C9C3E6"/>
 
-I'm interested in what happens where creativity meets technology.
-From experimenting with AI to building applications, I enjoy
-exploring ideas and turning them into something tangible.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005hamna&layout=compact&hide_border=true&bg_color=0D0B19&title_color=9B5CFF&text_color=C9C3E6"/>
+
+</div>
+
 
 ---
 
@@ -72,15 +68,19 @@ exploring ideas and turning them into something tangible.
 ---
 
 
-## `05  GITHUB_ACTIVITY`
+## `05  ABOUT_ME`
 
-<div align="center">
+```text
+> Degree       : BSc Computer Science
+> University   : Aston University
+> Classification: First Class Honours
+> Interests    : AI, software, security & technology
+> Mindset      : Always learning. Always experimenting.
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=2005hamna&show_icons=true&hide_border=true&bg_color=0D0B19&title_color=9B5CFF&icon_color=4169E1&text_color=C9C3E6"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005hamna&layout=compact&hide_border=true&bg_color=0D0B19&title_color=9B5CFF&text_color=C9C3E6"/>
-
-</div>
+I'm interested in what happens where creativity meets technology.
+From experimenting with AI to building applications, I enjoy
+exploring ideas and turning them into something tangible.
 
 
 ---
