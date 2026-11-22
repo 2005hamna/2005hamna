@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=9B5CFF&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;COMPUTER+SCIENCE+GRADUATE;BUILDING+IN+THE+DIGITAL+WORLD" />
 
-### `USER://COMPUTER_SCIENCE_GRADUATE`
+### `EXPLORER`
 
 *Exploring technology. Building ideas. Breaking limits.*
 
@@ -15,7 +15,7 @@
 
 ---
 
-## `01 // ABOUT_ME`
+## `01  ABOUT_ME`
 
 ```text
 > Degree       : BSc Computer Science
@@ -31,7 +31,7 @@ exploring ideas and turning them into something tangible.
 
 ---
 
-## `02 // PROJECTS`
+## `02  PROJECTS`
 
 | Project | Description |
 |---|---|
@@ -42,7 +42,7 @@ exploring ideas and turning them into something tangible.
 
 ---
 
-## `03 // TECH_STACK`
+## `03  TECH_STACK`
 
 <div align="center">
 
@@ -60,7 +60,7 @@ exploring ideas and turning them into something tangible.
 
 ---
 
-## `04 // CURRENTLY_LOADING`
+## `04  CURRENTLY_LOADING`
 
 ```text
 [████████░░] Artificial Intelligence
@@ -72,7 +72,7 @@ exploring ideas and turning them into something tangible.
 ---
 
 
-## `05 // GITHUB_ACTIVITY`
+## `05  GITHUB_ACTIVITY`
 
 <div align="center">
 
@@ -85,7 +85,7 @@ exploring ideas and turning them into something tangible.
 
 ---
 
-## `06 // ESTABLISH_CONNECTION`
+## `06  ESTABLISH_CONNECTION`
 
 <div align="center">
 
